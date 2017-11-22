@@ -54,7 +54,6 @@ def load_data_buil(dir=building_list_DIR) -> None:
 
 def get_b_info(buil:str, info_sele:str) -> str:
 	'''
-
 	:param buil: input building full name or abbrivation or postal code.
 	:param info_sele:
 		'a': return abbrivation as a string.
